@@ -24,7 +24,7 @@ npm start (for development)
 ```
 ### Docker based 
 ``` 
-git clone https://github.com/linnovate/mean
+git clone https://github.com/Bikeshs/MeanProject
 cd mean
 cp .env.example .env
 docker-compose up -d
