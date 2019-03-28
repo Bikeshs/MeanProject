@@ -16,7 +16,7 @@ MEAN is a set of Open Source components that together, provide an end-to-end fra
 
 ### Installation 
 ``` 
-git clone https://github.com/linnovate/mean
+git clone https://github.com/Bikeshs/MeanProject
 cd mean
 cp .env.example .env
 npm install
